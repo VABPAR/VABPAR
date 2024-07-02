@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vabpar&label=Profile%20views&color=0e75b6&style=flat" alt="vabpar" /> </p>
 
-- Currently, I am working as a: **Data Science Intern at Pentation Analytics**
+- Currently, I am working as a: **Junior Data Scientist at Pentation Analytics**
 
 - I upload all my projects here! at [https://github.com/VABPAR](https://github.com/VABPAR)
 
